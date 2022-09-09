@@ -1,0 +1,12 @@
+header {
+  background-color: #678;
+}
+
+body p {
+  font-size: 10px;
+  color: red;
+}
+body span {
+  font-size: 35px;
+  color: yellow;
+}
